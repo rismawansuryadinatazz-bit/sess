@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# Vite
+/dist/
+/.vite/
+
+# IDE files
+.idea/
+.vscode/
